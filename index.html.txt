@@ -1,0 +1,15 @@
+<html> 
+<body> 
+<center> 
+<h1>CPSC 332  Term Project</h1> 
+<hr> 
+<h2>Members: </h2> 
+<h3>Sean Hatfield 6849</h3> 
+<h3>Vincent Diep 5919</h3> 
+ 
+<form action="professor/professor.html"><input type="submit" value="Professor Page"></form> 
+<form action="student/student.html"><input type="submit" value="Student Page"></form> 
+</center> 
+ 
+</body> 
+</html>

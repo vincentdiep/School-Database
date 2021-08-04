@@ -1,0 +1,18 @@
+<html> 
+<body> 
+<center> 
+<h1>Student Page</h1> 
+<hr> 
+<form action="courseLookUp.php" method="post"> 
+    Course Number:  <input type="text" name="c_num" /><br><br> 
+<input type="submit" name="submit" value="Look up course sections" /> 
+</form> 
+<br><br> 
+<hr> 
+<form action="cwidLookUp.php" method="post"> 
+    CWID:  <input type="text" name="cwid" /><br><br> 
+<input type="submit" name="submit" value="Look up courses taken by student" /> 
+</form> 
+</center> 
+</body> 
+</html>

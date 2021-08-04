@@ -1,0 +1,17 @@
+<html> 
+<body> 
+<center> 
+<h1>Professor Page</h1> 
+<hr> 
+<form action="ssnLookUp.php" method="post"> 
+    SSN:  <input type="text" name="ssn" /><br><br> 
+<input type="submit" name="submit" value="Lookup classes by SSN" /> 
+</form><br><br><hr> 
+<form action="gradeLookUp.php" method="post"> 
+    Course Number:  <input type="text" name="c_num" /><br><br> 
+    Section Number:  <input type="text" name="s_num" /><br><br> 
+<input type="submit" name="submit" value="Lookup grades by course number and section number" /> 
+</form> 
+</center> 
+</body> 
+</html> 
