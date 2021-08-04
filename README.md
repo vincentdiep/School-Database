@@ -3,3 +3,10 @@ SQL Database Project for CPSC 332 Spring 2021
 
 ## Website URL: 
 http://ecs.fullerton.edu/~cs332a19/
+
+## Group Members: 
+Vincent Diep
+Sean Hatfield
+
+#####################################################
+
