@@ -5,8 +5,8 @@
 http://ecs.fullerton.edu/~cs332a19/
 
 ## Group Members: 
-- Vincent Diep
-- Sean Hatfield
+- Vincent Diep  vincentdiep@csu.fullerton.edu
+- Sean Hatfield shatfield4@csu.fullerton.edu
 
 ===========================================================================================
 
