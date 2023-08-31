@@ -1,5 +1,5 @@
 
-# SQL Database Project
+# University Database Project
 
 ## Website URL: 
 http://ecs.fullerton.edu/~cs332a19/
@@ -14,7 +14,7 @@ http://ecs.fullerton.edu/~cs332a19/
 
 ### Web database application built using MySQL database and PHP.
 
-The database is designed for a university that satisfies the following:
+The university database is designed to satisfy the following conditions:
 
 - The database keeps information of each professor, including the social security number , name, address, telephone number, sex, title, salary, and college degrees. The address includes street address, city, state, and zip code. 
 - Each department has a unique number, name, telephone, office location, and a chairperson who is a professor. 
