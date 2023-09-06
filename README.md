@@ -2,7 +2,8 @@
 # University Database Project
 
 ## Website URL: 
-http://ecs.fullerton.edu/~cs332a19/
+~~http://ecs.fullerton.edu/~cs332a19/~~
+ - The URL is no longer working since I have graduated from CSUF and no longer have access to their system.
 
 ## Group Members: 
 - Vincent Diep  vincentdiep@csu.fullerton.edu
